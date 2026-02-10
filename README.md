@@ -29,7 +29,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,java,py,c,bash,git,ruby,vagrant" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,java,c,bash,git,vagrant" />
 </p>
 
 ### 📊 GitHub Stats
