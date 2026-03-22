@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jussana Paim
 ### 🎨 Passionate Graphic Designer & Aspiring UI/UX Designer
 
-🌱 **Currently learning:** Java · Python · UI/UX Design  
+🌱 **Currently learning:** Java · C · UI/UX Design  
 🤝 **Looking for:** Guidance on **Design Systems**  
 📫 **Reach me at:** [contato.jussanapaim@gmail.com](mailto:contato.jussanapaim@gmail.com)  
 ⚡ **Fun fact:** I love reading, drawing, and exploring creative ideas!
@@ -21,9 +21,6 @@
   </a>
   <a href="https://behance.net/jussanarte" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="40" />
-  </a>
-  <a href="https://medium.com/@jussanarte" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" />
   </a>
 </p>
 
