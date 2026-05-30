@@ -2,11 +2,12 @@
 ### 🎨 UI/UX Designer & Graphic Designer | Engineering Informatics Background
 
 🌱 Currently exploring: UI/UX Design, Design Systems, Java & C
-🤝 Open to: Learning opportunities in **UI/UX, Product Design and Design Systems**
-📫 Contact: [contato.jussanapaim@gmail.com](mailto:contato.jussanapaim@gmail.com)
-⚡ Fun fact: I enjoy reading, drawing, painting and turning ideas into visual concepts
 
----
+🤝 Open to: Learning opportunities in **UI/UX, Product Design and Design Systems**
+
+📫 Contact: [contato.jussanapaim@gmail.com](mailto:contato.jussanapaim@gmail.com)
+
+⚡ Fun fact: I enjoy reading, drawing, painting and turning ideas into visual concepts
 
 ## 🧠 About me
 
@@ -24,8 +25,6 @@ I’m currently strengthening my skills in:
 * Content & Text Structuring
 
 My goal is to build interfaces that are simple, consistent and meaningful — always balancing usability, clarity and visual quality.
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -49,8 +48,6 @@ My goal is to build interfaces that are simple, consistent and meaningful — al
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40"/>
   </a>
 </p>
-
----
 
 ## ✨ Quote I like
 
