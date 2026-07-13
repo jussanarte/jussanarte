@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jussana Paim 
 ### 🎨 UI/UX Designer & Graphic Designer | Engineering Informatics Background
 
-🌱 Currently exploring: UI/UX Design, Design Systems, Java & C
+🌱 Currently exploring: UI/UX Design, Design Systems, Java, C & PHP
 
 🤝 Open to: Learning opportunities in **UI/UX, Product Design and Design Systems**
 
@@ -29,7 +29,7 @@ My goal is to build interfaces that are simple, consistent and meaningful — al
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,java,c,git,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,java,c,php,tailwind,angular,git,bash,vscode" />
 </p>
 
 ## 🌍 Connect with me
