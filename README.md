@@ -1,38 +1,100 @@
-# 👋 Hi, I'm Jussana Paim 
-### 🎨 UI/UX Designer & Graphic Designer | Engineering Informatics Background
+# 👋 Hi, I'm Jussana Paim
 
-🌱 Currently exploring: UI/UX Design, Design Systems, Java, C & PHP
+### 💻 Engineering Informatics Student | Software Development & UI/UX Design
 
-🤝 Open to: Learning opportunities in **UI/UX, Product Design and Design Systems**
+🌱 **Currently learning:** Software Development, Python, Java, C & Databases
 
-📫 Contact: [contato.jussanapaim@gmail.com](mailto:contato.jussanapaim@gmail.com)
+🎨 **Design focus:** UI/UX Design, Product Design, Design Systems & Visual Design
 
-⚡ Fun fact: I enjoy reading, drawing, painting and turning ideas into visual concepts
+🤝 **Open to:** Internship and learning opportunities in Software Development, IT, UI/UX and Product Design
 
-## 🧠 About me
+📫 **Contact:** [contato.jussanapaim@gmail.com](mailto:contato.jussanapaim@gmail.com)
 
-I’m a UI/UX Designer and Graphic Designer with a background in Computer Engineering.
-I work at the intersection of design, technology and product thinking, focusing on creating clear, functional and user-centered digital experiences.
+⚡ **Fun fact:** I enjoy reading, drawing, painting and turning ideas into visual concepts.
 
-I have experience in academic projects and startup environments, including collaboration in design leadership, creative direction and development of visual and functional solutions.
+---
 
-I’m currently strengthening my skills in:
+## 🧠 About Me
+
+I'm an **Engineering Informatics student** interested in building digital solutions at the intersection of **technology, product and design**.
+
+I have academic experience developing software projects in **Java**, including a compiler and a supermarket queue management simulator. I'm also strengthening my knowledge of **C, Python, databases, data structures and software engineering**.
+
+Alongside software development, I have practical experience in **UI/UX and Graphic Design**, working on digital products, academic projects and collaborative environments.
+
+I enjoy understanding how things work, solving problems and turning ideas into **functional, clear and meaningful digital experiences**.
+
+### 💻 Currently strengthening my skills in
+
+* Software Development
+* Java & Python
+* Data Structures & Algorithms
+* Databases & SQL
+* Software Engineering
+* Git & GitHub
+
+### 🎨 Design
 
 * UI/UX Design
 * Wireframing & Prototyping
 * Design Systems
+* Product Design
 * Visual Identity
-* Content & Text Structuring
+* User-Centered Design
 
-My goal is to build interfaces that are simple, consistent and meaningful — always balancing usability, clarity and visual quality.
+---
+
+## 🚀 Featured Projects
+
+### 🧩 CIJMC — C In Java Mini Compiler
+
+Academic compiler project developed in Java, implementing **lexical analysis, recursive-descent parsing, AST construction, symbol tables and semantic analysis**.
+
+**Tech:** Java
+
+---
+
+### 🛒 Supermarket Queues Management Simulator
+
+Java console application that simulates supermarket queues, including **manual and automatic simulation modes** and data persistence.
+
+**Tech:** Java
+
+---
+
+### 🎨 EH.Angola
+
+Educational digital platform focused on teaching **Economics and Angolan History**. Developed as a team project within Software Engineering II.
+
+**My role:** UI/UX Design
+
+---
 
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,java,c,php,tailwind,angular,git,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,html,css,php,figma,photoshop,illustrator,vscode" />
 </p>
 
-## 🌍 Connect with me
+### Development
+
+Java · C · Python · SQL · Git · GitHub
+
+### Web
+
+HTML · CSS · PHP
+
+### Design
+
+Figma · Photoshop · Illustrator · Miro
+
+### Productivity & Collaboration
+
+Trello · Microsoft Office · Google Workspace
+
+---
+
+## 🌍 Connect with Me
 
 <p align="left">
   <a href="https://github.com/jussanarte" target="_blank">
@@ -49,6 +111,8 @@ My goal is to build interfaces that are simple, consistent and meaningful — al
   </a>
 </p>
 
-## ✨ Quote I like
+---
+
+## ✨ Quotes I Like
 
 > “You don’t have to be a genius, you just have to be yourself.” — Austin Kleon
