@@ -2,99 +2,63 @@
 
 ### 💻 Engineering Informatics Student | Software Development & UI/UX Design
 
-🌱 **Currently learning:** Software Development, Python, Java, C & Databases
+I'm an **Engineering Informatics student** interested in the intersection of **technology, product and design**.
 
-🎨 **Design focus:** UI/UX Design, Product Design, Design Systems & Visual Design
+I have academic experience with **Java and C**, and I'm currently strengthening my skills in **Python, databases, software development and Git**.
 
-🤝 **Open to:** Internship and learning opportunities in Software Development, IT, UI/UX and Product Design
+Alongside technology, I have practical experience in **UI/UX and Graphic Design**, working on digital products, visual identities and collaborative projects.
 
-📫 **Contact:** [contato.jussanapaim@gmail.com](mailto:contato.jussanapaim@gmail.com)
-
-⚡ **Fun fact:** I enjoy reading, drawing, painting and turning ideas into visual concepts.
+I enjoy understanding problems, exploring how things work and turning ideas into **functional and clear digital experiences**.
 
 ---
 
-## 🧠 About Me
+## 🌱 Currently Learning
 
-I'm an **Engineering Informatics student** interested in building digital solutions at the intersection of **technology, product and design**.
-
-I have academic experience developing software projects in **Java**, including a compiler and a supermarket queue management simulator. I'm also strengthening my knowledge of **C, Python, databases, data structures and software engineering**.
-
-Alongside software development, I have practical experience in **UI/UX and Graphic Design**, working on digital products, academic projects and collaborative environments.
-
-I enjoy understanding how things work, solving problems and turning ideas into **functional, clear and meaningful digital experiences**.
-
-### 💻 Currently strengthening my skills in
-
-* Software Development
-* Java & Python
-* Data Structures & Algorithms
+* Python & Software Development
 * Databases & SQL
-* Software Engineering
-* Git & GitHub
-
-### 🎨 Design
-
-* UI/UX Design
-* Wireframing & Prototyping
+* Data Structures & Algorithms
+* UI/UX & Product Design
 * Design Systems
-* Product Design
-* Visual Identity
-* User-Centered Design
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 CIJMC — C In Java Mini Compiler
+### CIJMC — C In Java Mini Compiler
 
-Academic compiler project developed in Java, implementing **lexical analysis, recursive-descent parsing, AST construction, symbol tables and semantic analysis**.
-
-**Tech:** Java
-
----
-
-### 🛒 Supermarket Queues Management Simulator
-
-Java console application that simulates supermarket queues, including **manual and automatic simulation modes** and data persistence.
+Academic compiler project developed in Java.
 
 **Tech:** Java
 
+### Gestão de Filas de Supermercado
+
+Java console application developed to simulate supermarket queue management.
+
+**Tech:** Java
+
+### EH.Angola
+
+Educational digital platform focused on Economics and Angolan History.
+
+**Role:** UI/UX Design
+
 ---
 
-### 🎨 EH.Angola
-
-Educational digital platform focused on teaching **Economics and Angolan History**. Developed as a team project within Software Engineering II.
-
-**My role:** UI/UX Design
-
----
-
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,html,css,php,figma,photoshop,illustrator,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,html,css,figma,photoshop,illustrator,vscode" />
 </p>
 
-### Development
+**Development:** Java · C · Python · SQL · Git · GitHub
 
-Java · C · Python · SQL · Git · GitHub
+**Design:** Figma · Photoshop · Illustrator · Miro
 
-### Web
-
-HTML · CSS · PHP
-
-### Design
-
-Figma · Photoshop · Illustrator · Miro
-
-### Productivity & Collaboration
-
-Trello · Microsoft Office · Google Workspace
+**Product & UX:** Wireframing · Prototyping · Design Systems · Visual Identity
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with me
 
 <p align="left">
   <a href="https://github.com/jussanarte" target="_blank">
@@ -103,16 +67,9 @@ Trello · Microsoft Office · Google Workspace
   <a href="https://linkedin.com/in/jussanarte" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
-  <a href="https://instagram.com/jussanarte" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a>
-  <a href="https://behance.net/jussanarte" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40"/>
+  <a href="mailto:contato.jussanapaim@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 </p>
-
----
-
-## ✨ Quotes I Like
 
 > “You don’t have to be a genius, you just have to be yourself.” — Austin Kleon
